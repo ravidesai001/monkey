@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+nav {
+    text-align: right;
+    list-style-position: inside;
+    margin: 5%;
+    padding-right: 7%;
+    
+}
+
+body {
+    background-color: #42455a;
+}
+
+
+ul   {
+
+}
+
+ul li   {
+    list-style: none;
+    display: inline-block;
+    
+
+}
+
+ul li a  {
+    font-size: 18px;   
+    color: white;
+    text-align: right;
+    list-style-position: inside;
+}
+
+li {
+    padding-right: 5%;
+    font-family: sans-serif;
+    
+}
