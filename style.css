@@ -7,8 +7,8 @@
 nav {
     text-align: right;
     list-style-position: inside;
-    margin: 5%;
-    padding-right: 7%;
+    margin: 3%;
+    padding-right: 1%;
     
 }
 
@@ -29,14 +29,14 @@ ul li   {
 }
 
 ul li a  {
-    font-size: 18px;   
+    font-size: 20px;   
     color: white;
     text-align: right;
     list-style-position: inside;
 }
 
 li {
-    padding-right: 5%;
+    padding-right: 3%;
     font-family: sans-serif;
     
 }
