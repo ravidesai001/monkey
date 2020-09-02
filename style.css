@@ -29,7 +29,7 @@ ul li   {
 }
 
 ul li a  {
-    font-size: 20px;   
+    font-size: 18px;   
     color: white;
     text-align: right;
     list-style-position: inside;
@@ -37,7 +37,7 @@ ul li a  {
 
 li {
     padding-right: 3%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Tahoma, sans-serif;
     
 }
 
@@ -46,14 +46,15 @@ li {
     position: absolute;
     text-decoration: none;
     color: #fff;   
-    border: 4px solid transparent;
-    border-radius: 100px;
+    border: 2px solid transparent;
+    border-radius: 20px;
     background-image: linear-gradient(#42455a,#42455a), radial-gradient(circle at top left,#fd00da,#19d7f8);
     background-origin: border-box; 
     background-clip: content-box, border-box; 
 }
-    
 .Login-btn span {
     display: block;
-    padding: 100%, 100px;
+    padding: 8px 22px;
+
 }
+
