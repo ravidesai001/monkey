@@ -42,7 +42,7 @@ li {
 }
 
 .Login-btn {
-    top: 5.5%;
+    top: 5%;
     position: absolute;
     text-decoration: none;
     color: #fff;   
@@ -58,3 +58,41 @@ li {
 
 }
 
+.app-picture {
+    width: 50%;
+    float: right;
+    padding-top: 20%;
+    padding: 20%;
+    padding-right: 0%;
+}
+
+
+
+.app-picture img {
+    width: 50%;
+    float: right;
+}
+
+.app-text {
+    width: 50%;
+    float:left;
+    margin-left: 0%;
+    
+}
+.app-text h1{
+    font-size:43px;
+    width: 640px;
+    position: relative;
+    margin-left: 0%;
+
+}
+
+.app-text p{
+    width: 650px;
+    font-size: 15px;
+    margin-left: 0%;
+    line-height: 25px;
+    color: #919191;
+    font-family: sans-serif;
+    
+}
